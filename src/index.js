@@ -1,5 +1,5 @@
 const { rastrearEncomendas } = require('correios-brasil');
-const codigosJson = require('../codigos.json');
+const codigosJson = require('./codigos.json');
 
 let codRastreio = [];
 
